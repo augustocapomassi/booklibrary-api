@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/booklibrary-api/bin/Debug/net8.0
+/booklibrary-api/obj
+/booklibrary-repository/bin/Debug/net8.0
+/booklibrary-repository/obj
+/booklibrary-services/bin/Debug/net8.0
+/booklibrary-services/obj
+/booklibrary-services-tests/bin/Debug/net8.0
+/booklibrary-services-tests/obj
+/.vs/booklibrary-api/FileContentIndex
